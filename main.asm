@@ -2,8 +2,6 @@ TITLE EL2001 Computer Architecture and Assembly Language Lab Project
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;                                              ;
-;    K21-4523 Nabiha Rajani                    ;
-;    K21-4899 Asad Tariq                       ;
 ;                                              ;
 ;    Number Guessing Game                      ;
 ;                                              ;
